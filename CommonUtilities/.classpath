@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="D:/jars/AgileAPI.jar"/>
+	<classpathentry kind="lib" path="D:/jars/servlet-api.jar"/>
+	<classpathentry kind="lib" path="D:/jars/javamail1_4_5/javamail-1.4.5/mail.jar"/>
+	<classpathentry kind="lib" path="D:/jars/poi-bin-3.15-20160924/poi-3.15/poi-3.15.jar"/>
+	<classpathentry kind="lib" path="D:/jars/poi-bin-3.15-20160924/poi-3.15/poi-ooxml-3.15.jar"/>
+	<classpathentry kind="lib" path="D:/jars/poi-bin-3.15-20160924/poi-3.15/poi-excelant-3.15.jar"/>
+	<classpathentry kind="lib" path="D:/jars/poi-bin-3.15-20160924/poi-3.15/poi-ooxml-schemas-3.15.jar"/>
+	<classpathentry kind="lib" path="D:/jars/poi-bin-3.15-20160924/poi-3.15/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/jars/commons-collections4-4.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
